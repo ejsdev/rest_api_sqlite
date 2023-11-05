@@ -1,0 +1,9 @@
+MODULOS
+
+
+
+COMANDOS
+
+npm init --yes : crea package.json con la configuracio
+npm i express sqlite3 sequelize 
+npm i @babel/core @babel/cli @babel/preset-env @babel/node -D 
